@@ -5,7 +5,7 @@ from datetime import datetime
 import re
 
 # URL của trang chứa thông tin sim
-base_url = 'https://sim.vn/sim-so-dep-duoi-268'
+base_url = 'https://sim.vn/sim-so-dep-duoi-1368'
 
 # List các dãy số không mong muốn
 unwanted_numbers = ['89', '46', '64', '97', '79', '38', '83']
